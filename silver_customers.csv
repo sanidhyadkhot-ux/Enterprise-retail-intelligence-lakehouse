@@ -1,0 +1,501 @@
+customer_id,customer_segment,location
+C00001,Regular,Sydney
+C00002,At Risk,Sydney
+C00003,Loyal,Sydney
+C00004,Regular,Adelaide
+C00005,New,Perth
+C00006,New,Adelaide
+C00007,New,Perth
+C00008,Loyal,Adelaide
+C00009,Regular,Adelaide
+C00010,Loyal,Brisbane
+C00011,New,Adelaide
+C00012,At Risk,Melbourne
+C00013,Loyal,Brisbane
+C00014,New,Adelaide
+C00015,New,Sydney
+C00016,New,Melbourne
+C00017,Regular,Melbourne
+C00018,Regular,Melbourne
+C00019,Regular,Brisbane
+C00020,Regular,Adelaide
+C00021,Regular,Adelaide
+C00022,New,Sydney
+C00023,Regular,Sydney
+C00024,Regular,Melbourne
+C00025,Regular,Sydney
+C00026,Loyal,Brisbane
+C00027,New,Adelaide
+C00028,Regular,Melbourne
+C00029,Regular,Sydney
+C00030,New,Brisbane
+C00031,Regular,Brisbane
+C00032,New,Sydney
+C00033,New,Adelaide
+C00034,At Risk,Sydney
+C00035,At Risk,Melbourne
+C00036,Loyal,Sydney
+C00037,Regular,Brisbane
+C00038,New,Sydney
+C00039,Regular,Adelaide
+C00040,Regular,Perth
+C00041,New,Sydney
+C00042,Regular,Adelaide
+C00043,New,Adelaide
+C00044,At Risk,Brisbane
+C00045,Regular,Adelaide
+C00046,Regular,Adelaide
+C00047,Regular,Adelaide
+C00048,Regular,Adelaide
+C00049,Regular,Melbourne
+C00050,New,Melbourne
+C00051,At Risk,Brisbane
+C00052,Loyal,Sydney
+C00053,At Risk,Adelaide
+C00054,Loyal,Sydney
+C00055,Regular,Sydney
+C00056,At Risk,Brisbane
+C00057,New,Adelaide
+C00058,New,Adelaide
+C00059,New,Perth
+C00060,Regular,Sydney
+C00061,Regular,Sydney
+C00062,Regular,Melbourne
+C00063,Loyal,Perth
+C00064,Regular,Melbourne
+C00065,Regular,Melbourne
+C00066,Regular,Melbourne
+C00067,New,Brisbane
+C00068,Loyal,Brisbane
+C00069,New,Melbourne
+C00070,At Risk,Perth
+C00071,Loyal,Sydney
+C00072,New,Perth
+C00073,New,Adelaide
+C00074,Loyal,Brisbane
+C00075,Loyal,Sydney
+C00076,Loyal,Sydney
+C00077,Loyal,Adelaide
+C00078,New,Adelaide
+C00079,Regular,Melbourne
+C00080,New,Brisbane
+C00081,Loyal,Brisbane
+C00082,Regular,Perth
+C00083,Regular,Melbourne
+C00084,New,Melbourne
+C00085,Regular,Melbourne
+C00086,Regular,Melbourne
+C00087,Loyal,Brisbane
+C00088,Regular,Brisbane
+C00089,Loyal,Melbourne
+C00090,Regular,Perth
+C00091,New,Sydney
+C00092,Loyal,Sydney
+C00093,Loyal,Perth
+C00094,Regular,Melbourne
+C00095,Loyal,Brisbane
+C00096,Regular,Sydney
+C00097,Regular,Adelaide
+C00098,Regular,Adelaide
+C00099,New,Perth
+C00100,New,Melbourne
+C00101,New,Sydney
+C00102,Regular,Melbourne
+C00103,Regular,Sydney
+C00104,Regular,Perth
+C00105,At Risk,Perth
+C00106,New,Adelaide
+C00107,Regular,Melbourne
+C00108,Loyal,Adelaide
+C00109,New,Melbourne
+C00110,New,Adelaide
+C00111,Regular,Brisbane
+C00112,New,Brisbane
+C00113,At Risk,Brisbane
+C00114,Loyal,Brisbane
+C00115,Regular,Sydney
+C00116,Loyal,Brisbane
+C00117,Loyal,Perth
+C00118,New,Perth
+C00119,Loyal,Sydney
+C00120,Regular,Brisbane
+C00121,Loyal,Brisbane
+C00122,Loyal,Brisbane
+C00123,Regular,Adelaide
+C00124,New,Melbourne
+C00125,New,Adelaide
+C00126,Regular,Melbourne
+C00127,Loyal,Brisbane
+C00128,Loyal,Brisbane
+C00129,New,Adelaide
+C00130,Regular,Adelaide
+C00131,Regular,Melbourne
+C00132,New,Perth
+C00133,New,Melbourne
+C00134,Regular,Adelaide
+C00135,At Risk,Adelaide
+C00136,Regular,Sydney
+C00137,Regular,Adelaide
+C00138,Loyal,Sydney
+C00139,Regular,Perth
+C00140,At Risk,Melbourne
+C00141,At Risk,Melbourne
+C00142,Regular,Sydney
+C00143,Regular,Melbourne
+C00144,Regular,Adelaide
+C00145,Regular,Brisbane
+C00146,New,Sydney
+C00147,Regular,Melbourne
+C00148,Regular,Sydney
+C00149,New,Sydney
+C00150,Regular,Brisbane
+C00151,At Risk,Adelaide
+C00152,New,Sydney
+C00153,New,Melbourne
+C00154,Regular,Perth
+C00155,At Risk,Sydney
+C00156,New,Sydney
+C00157,Regular,Brisbane
+C00158,Loyal,Adelaide
+C00159,New,Perth
+C00160,Loyal,Melbourne
+C00161,Regular,Perth
+C00162,Regular,Melbourne
+C00163,Regular,Adelaide
+C00164,Regular,Melbourne
+C00165,New,Brisbane
+C00166,Loyal,Brisbane
+C00167,Regular,Brisbane
+C00168,New,Brisbane
+C00169,New,Perth
+C00170,Regular,Adelaide
+C00171,Regular,Melbourne
+C00172,New,Melbourne
+C00173,Regular,Brisbane
+C00174,New,Brisbane
+C00175,Regular,Sydney
+C00176,New,Adelaide
+C00177,Regular,Perth
+C00178,Regular,Melbourne
+C00179,At Risk,Sydney
+C00180,New,Sydney
+C00181,Regular,Melbourne
+C00182,New,Perth
+C00183,At Risk,Sydney
+C00184,Loyal,Sydney
+C00185,Regular,Adelaide
+C00186,Regular,Perth
+C00187,Loyal,Sydney
+C00188,Regular,Perth
+C00189,Regular,Melbourne
+C00190,New,Brisbane
+C00191,New,Sydney
+C00192,Loyal,Adelaide
+C00193,At Risk,Melbourne
+C00194,Regular,Perth
+C00195,Regular,Melbourne
+C00196,Regular,Sydney
+C00197,Loyal,Perth
+C00198,Loyal,Brisbane
+C00199,Loyal,Melbourne
+C00200,Loyal,Sydney
+C00201,Regular,Adelaide
+C00202,New,Perth
+C00203,New,Melbourne
+C00204,Loyal,Melbourne
+C00205,Regular,Brisbane
+C00206,New,Brisbane
+C00207,New,Adelaide
+C00208,Regular,Adelaide
+C00209,New,Sydney
+C00210,New,Sydney
+C00211,Regular,Adelaide
+C00212,Regular,Adelaide
+C00213,Regular,Perth
+C00214,New,Brisbane
+C00215,Loyal,Sydney
+C00216,New,Brisbane
+C00217,Regular,Brisbane
+C00218,Loyal,Adelaide
+C00219,Regular,Perth
+C00220,Loyal,Melbourne
+C00221,Regular,Perth
+C00222,Regular,Perth
+C00223,New,Brisbane
+C00224,Regular,Perth
+C00225,Regular,Sydney
+C00226,New,Brisbane
+C00227,At Risk,Sydney
+C00228,Regular,Melbourne
+C00229,Loyal,Brisbane
+C00230,Regular,Melbourne
+C00231,Loyal,Brisbane
+C00232,Regular,Adelaide
+C00233,Regular,Perth
+C00234,Regular,Adelaide
+C00235,New,Melbourne
+C00236,Loyal,Perth
+C00237,Regular,Brisbane
+C00238,New,Perth
+C00239,Regular,Sydney
+C00240,New,Perth
+C00241,At Risk,Sydney
+C00242,At Risk,Perth
+C00243,At Risk,Sydney
+C00244,Regular,Melbourne
+C00245,New,Adelaide
+C00246,At Risk,Brisbane
+C00247,Regular,Perth
+C00248,At Risk,Adelaide
+C00249,At Risk,Brisbane
+C00250,Loyal,Brisbane
+C00251,Regular,Sydney
+C00252,Regular,Melbourne
+C00253,Loyal,Melbourne
+C00254,Regular,Adelaide
+C00255,New,Melbourne
+C00256,Regular,Perth
+C00257,At Risk,Melbourne
+C00258,Regular,Adelaide
+C00259,Regular,Melbourne
+C00260,New,Perth
+C00261,Regular,Sydney
+C00262,At Risk,Adelaide
+C00263,New,Sydney
+C00264,Regular,Sydney
+C00265,Loyal,Sydney
+C00266,Loyal,Brisbane
+C00267,Regular,Brisbane
+C00268,Loyal,Sydney
+C00269,Regular,Adelaide
+C00270,Regular,Perth
+C00271,Loyal,Perth
+C00272,Loyal,Melbourne
+C00273,Loyal,Adelaide
+C00274,At Risk,Brisbane
+C00275,Regular,Sydney
+C00276,Regular,Melbourne
+C00277,Loyal,Perth
+C00278,Regular,Brisbane
+C00279,Loyal,Brisbane
+C00280,Loyal,Sydney
+C00281,Loyal,Perth
+C00282,Regular,Adelaide
+C00283,Regular,Brisbane
+C00284,New,Sydney
+C00285,Regular,Adelaide
+C00286,New,Perth
+C00287,Regular,Brisbane
+C00288,Regular,Adelaide
+C00289,Regular,Adelaide
+C00290,Regular,Adelaide
+C00291,New,Brisbane
+C00292,New,Brisbane
+C00293,Loyal,Melbourne
+C00294,Regular,Perth
+C00295,New,Sydney
+C00296,Regular,Adelaide
+C00297,Loyal,Melbourne
+C00298,New,Sydney
+C00299,Regular,Melbourne
+C00300,New,Brisbane
+C00301,New,Adelaide
+C00302,Regular,Sydney
+C00303,Regular,Sydney
+C00304,Regular,Sydney
+C00305,Loyal,Sydney
+C00306,At Risk,Sydney
+C00307,Regular,Melbourne
+C00308,Regular,Adelaide
+C00309,Loyal,Brisbane
+C00310,Regular,Brisbane
+C00311,Regular,Brisbane
+C00312,New,Brisbane
+C00313,New,Melbourne
+C00314,At Risk,Perth
+C00315,Loyal,Adelaide
+C00316,Regular,Sydney
+C00317,Regular,Perth
+C00318,New,Brisbane
+C00319,New,Perth
+C00320,Regular,Adelaide
+C00321,Regular,Sydney
+C00322,Loyal,Sydney
+C00323,Regular,Adelaide
+C00324,Regular,Adelaide
+C00325,At Risk,Brisbane
+C00326,Loyal,Sydney
+C00327,Regular,Perth
+C00328,Regular,Melbourne
+C00329,Regular,Melbourne
+C00330,New,Adelaide
+C00331,Regular,Brisbane
+C00332,Loyal,Melbourne
+C00333,New,Sydney
+C00334,New,Adelaide
+C00335,New,Perth
+C00336,New,Adelaide
+C00337,Loyal,Perth
+C00338,Loyal,Adelaide
+C00339,Regular,Adelaide
+C00340,New,Adelaide
+C00341,Regular,Perth
+C00342,Regular,Perth
+C00343,New,Adelaide
+C00344,Regular,Melbourne
+C00345,Regular,Brisbane
+C00346,Regular,Brisbane
+C00347,Regular,Brisbane
+C00348,New,Perth
+C00349,Regular,Perth
+C00350,Regular,Melbourne
+C00351,Regular,Brisbane
+C00352,Loyal,Brisbane
+C00353,Regular,Adelaide
+C00354,New,Perth
+C00355,New,Brisbane
+C00356,Regular,Melbourne
+C00357,New,Melbourne
+C00358,Regular,Brisbane
+C00359,At Risk,Perth
+C00360,Regular,Melbourne
+C00361,Regular,Adelaide
+C00362,Regular,Melbourne
+C00363,Regular,Sydney
+C00364,Regular,Sydney
+C00365,At Risk,Perth
+C00366,Regular,Brisbane
+C00367,At Risk,Perth
+C00368,At Risk,Perth
+C00369,New,Perth
+C00370,New,Perth
+C00371,New,Adelaide
+C00372,New,Adelaide
+C00373,New,Melbourne
+C00374,Regular,Sydney
+C00375,New,Perth
+C00376,Regular,Melbourne
+C00377,Loyal,Sydney
+C00378,New,Brisbane
+C00379,Loyal,Adelaide
+C00380,Regular,Sydney
+C00381,New,Brisbane
+C00382,Regular,Sydney
+C00383,Regular,Adelaide
+C00384,Loyal,Adelaide
+C00385,Loyal,Melbourne
+C00386,Loyal,Perth
+C00387,Regular,Sydney
+C00388,New,Sydney
+C00389,Loyal,Brisbane
+C00390,Loyal,Adelaide
+C00391,At Risk,Sydney
+C00392,Regular,Adelaide
+C00393,Regular,Sydney
+C00394,Loyal,Melbourne
+C00395,Regular,Perth
+C00396,At Risk,Sydney
+C00397,Loyal,Adelaide
+C00398,Regular,Melbourne
+C00399,Loyal,Sydney
+C00400,Loyal,Brisbane
+C00401,New,Perth
+C00402,At Risk,Sydney
+C00403,Regular,Melbourne
+C00404,Loyal,Brisbane
+C00405,Regular,Melbourne
+C00406,Loyal,Melbourne
+C00407,Regular,Brisbane
+C00408,New,Melbourne
+C00409,At Risk,Brisbane
+C00410,New,Sydney
+C00411,Regular,Brisbane
+C00412,At Risk,Brisbane
+C00413,At Risk,Perth
+C00414,Regular,Brisbane
+C00415,Regular,Brisbane
+C00416,Regular,Sydney
+C00417,Regular,Perth
+C00418,Regular,Adelaide
+C00419,Regular,Sydney
+C00420,Loyal,Sydney
+C00421,Loyal,Adelaide
+C00422,Loyal,Brisbane
+C00423,New,Melbourne
+C00424,Regular,Perth
+C00425,New,Melbourne
+C00426,Regular,Adelaide
+C00427,Regular,Sydney
+C00428,Loyal,Sydney
+C00429,Regular,Perth
+C00430,New,Sydney
+C00431,New,Sydney
+C00432,Loyal,Perth
+C00433,Regular,Perth
+C00434,New,Adelaide
+C00435,New,Sydney
+C00436,Loyal,Sydney
+C00437,New,Adelaide
+C00438,Loyal,Brisbane
+C00439,Loyal,Brisbane
+C00440,New,Brisbane
+C00441,New,Adelaide
+C00442,At Risk,Sydney
+C00443,Regular,Adelaide
+C00444,Regular,Adelaide
+C00445,Loyal,Brisbane
+C00446,At Risk,Melbourne
+C00447,At Risk,Sydney
+C00448,Loyal,Brisbane
+C00449,Regular,Melbourne
+C00450,New,Melbourne
+C00451,Loyal,Perth
+C00452,Regular,Sydney
+C00453,Regular,Melbourne
+C00454,At Risk,Brisbane
+C00455,New,Perth
+C00456,Regular,Sydney
+C00457,New,Adelaide
+C00458,Regular,Brisbane
+C00459,New,Melbourne
+C00460,New,Melbourne
+C00461,New,Brisbane
+C00462,Regular,Melbourne
+C00463,Loyal,Perth
+C00464,Regular,Sydney
+C00465,At Risk,Perth
+C00466,Regular,Melbourne
+C00467,Regular,Adelaide
+C00468,Loyal,Sydney
+C00469,New,Sydney
+C00470,At Risk,Brisbane
+C00471,New,Brisbane
+C00472,At Risk,Adelaide
+C00473,New,Sydney
+C00474,Loyal,Adelaide
+C00475,Regular,Brisbane
+C00476,At Risk,Brisbane
+C00477,New,Sydney
+C00478,Regular,Perth
+C00479,At Risk,Melbourne
+C00480,Regular,Brisbane
+C00481,Regular,Brisbane
+C00482,Regular,Perth
+C00483,Regular,Perth
+C00484,Regular,Adelaide
+C00485,Regular,Adelaide
+C00486,At Risk,Melbourne
+C00487,New,Melbourne
+C00488,Regular,Sydney
+C00489,At Risk,Adelaide
+C00490,Loyal,Brisbane
+C00491,Regular,Adelaide
+C00492,Regular,Brisbane
+C00493,Regular,Perth
+C00494,New,Adelaide
+C00495,Regular,Perth
+C00496,Regular,Melbourne
+C00497,Regular,Melbourne
+C00498,New,Sydney
+C00499,At Risk,Adelaide
+C00500,At Risk,Perth
